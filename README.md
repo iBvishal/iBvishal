@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about tech related stuff.
 - 📫 How to reach me: [LinkedIn](https://twitter.com/imthepk)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I play counter-strike everyday.
+- ⚡ Fun fact: I am a Rick and Morty fan xD.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=iBvishal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
