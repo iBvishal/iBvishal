@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Vishal!
 
-- 🌱 I’m currently working on Django Rest framework.
+- 🌱 I’m currently working on C#.
 - 💬 Ask me about tech related stuff.
 - 📫 How to reach me: [LinkedIn](https://twitter.com/imthepk)
 - 😄 Pronouns: He/His
