@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently working on C#.
 - 💬 Ask me about tech related stuff.
-- 📫 How to reach me: [LinkedIn](https://twitter.com/imthepk)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vishal-bhardwaj-b72702114/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Rick and Morty fan 😄.
 
