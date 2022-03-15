@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Vishal!
 
-- 🌱 I’m currently working on C#.
+- 🌱 I’m currently working on Python/Django.
 - 💬 Ask me about tech related stuff.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vishal-bhardwaj-b72702114/)
 - 😄 Pronouns: He/His
