@@ -1,27 +1,43 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img src="assets/banner-light.png" alt="Vishal Bhardwaj: tools for AI agents, and small web apps that do one job well">
+</picture>
 
+I build open-source tools for teams working with AI agents at [Thinking Raven](https://thinkingraven.com), and small web apps that do one job well.
 
-<!--
-**iBvishal/iBvishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://thinkingraven.com"><img src="assets/thinkingraven.jpg" alt="thinkingraven.com"></a>
+      <br><b><a href="https://thinkingraven.com">Thinking Raven</a></b>
+      <br>Sharpen, measure and trust what your software factory ships.
+      <br><a href="https://github.com/thinkingraven/rookery">rookery</a> · <a href="https://github.com/thinkingraven/roost">roost</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.typoscan.in"><img src="assets/typoscan.jpg" alt="typoscan.in"></a>
+      <br><b><a href="https://www.typoscan.in">typoscan.in</a></b>
+      <br>Find the lookalike domains your customers might mistype, and check which ones are taken.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tryevenly.com"><img src="assets/evenly.jpg" alt="tryevenly.com"></a>
+      <br><b><a href="https://tryevenly.com">tryevenly.com</a></b>
+      <br>Split a bill and everyone pays their own share by UPI. No app, no sign-up.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tiny-chat-five.vercel.app"><img src="assets/tiny-chat.jpg" alt="tiny-chat"></a>
+      <br><b><a href="https://tiny-chat-five.vercel.app">tiny-chat</a></b>
+      <br>A local-first Gemini chat. Your history never leaves the browser.
+      <br><a href="https://github.com/iBvishal/tiny-chat">Code</a>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+#### Open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**rookery**](https://github.com/thinkingraven/rookery): find every agent skill in your repos, spot the duplicates and catch the risky ones. `npx @thinkingraven/rookery scan .`
+- [**roost**](https://github.com/thinkingraven/roost): see which skills, subagents and MCP servers your agents actually use. `npx @thinkingraven/roost usage`
+- [**tiny-chat**](https://github.com/iBvishal/tiny-chat): local-first Gemini chat with IndexedDB history and bring-your-own-key.
 
-### Hi, I'm Vishal!
-
-- 🌱 I’m currently working on Python/Django.
-- 💬 Ask me about tech related stuff.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vishal-bhardwaj-b72702114/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I am a Rick and Morty fan 😄.
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=iBvishal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+TypeScript · Next.js · React · Node · Python · [LinkedIn](https://www.linkedin.com/in/vishal-bhardwaj-b72702114/)
