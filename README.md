@@ -3,7 +3,7 @@
   <img src="assets/banner-light.png" alt="Vishal Bhardwaj, Lead Engineer at Dialpad: tools for AI agents, and small web apps that do one job well">
 </picture>
 
-Lead Engineer at [Dialpad](https://www.dialpad.com). In my free time I build open-source tools for AI agents at [Thinking Raven](https://thinkingraven.com), and small web apps that do one job well.
+Lead Engineer at [Dialpad](https://www.dialpad.com) (work account: [@vishaldialpad](https://github.com/vishaldialpad)). In my free time I build open-source tools for AI agents at [Thinking Raven](https://thinkingraven.com), and small web apps that do one job well.
 
 #### Side projects
 
@@ -14,7 +14,7 @@ Lead Engineer at [Dialpad](https://www.dialpad.com). In my free time I build ope
 
 #### Open source
 
-- [**rookery**](https://github.com/thinkingraven/rookery): find every agent skill in your repos, spot the duplicates and catch the risky ones. `npx @thinkingraven/rookery scan .`
-- [**roost**](https://github.com/thinkingraven/roost): see which skills, subagents and MCP servers your agents actually use. `npx @thinkingraven/roost usage`
+- [**rookery**](https://github.com/thinkingraven/rookery) · [npm](https://www.npmjs.com/package/@thinkingraven/rookery): find every agent skill in your repos, spot the duplicates and catch the risky ones.<br>`npx @thinkingraven/rookery scan .`
+- [**roost**](https://github.com/thinkingraven/roost) · [npm](https://www.npmjs.com/package/@thinkingraven/roost): see which skills, subagents and MCP servers your agents actually use.<br>`npx @thinkingraven/roost usage`
 
 TypeScript · Next.js · React · Node · Python · [LinkedIn](https://www.linkedin.com/in/vishal-bhardwaj-b72702114/)
